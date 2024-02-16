@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        RS-GeoAI4Landslide
+        RS-GeoAI 4 Landslide
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **RS-GeoAI4Landslide Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **RS-GeoAI 4 Landslide Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
