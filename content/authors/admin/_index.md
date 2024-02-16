@@ -1,41 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Chao Zhou (周 超)
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Chao
+last_name: Zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Geographic Information Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: China University of Geosciences
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Landslide risk analysis, Landslide monitoring and early warning.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Landslide
+  - Remote Sensing
+  - GIS
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Engineering Geology
+      institution: China University of Geosciences
+      year: 2018
+#    - course: MEng in Artificial Intelligence
+#      institution: China University of Geosciences
+#      year: 2015
+    - course: BSc in Remote Sensing
+      institution: China University of Geosciences
+      year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +72,6 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chao Zhou is a professor of Geographic Information Science at China University of Geosciences. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
