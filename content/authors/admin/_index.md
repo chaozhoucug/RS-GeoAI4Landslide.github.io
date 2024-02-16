@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Chao Zhou (周 超)
+title: Chao Zhou
 
 # Full Name (for SEO)
-first_name: Chao
-last_name: Zhou
+first_name: Chao1
+last_name: Zhou1
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ role: Professor of Geographic Information Science
 # Organizations/Affiliations
 organizations:
   - name: China University of Geosciences
-    url: ''
+    url: 'https://www.cug.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Landslide risk analysis, Landslide monitoring and early warning.
@@ -74,4 +74,3 @@ user_groups:
 
 Chao Zhou is a professor of Geographic Information Science at China University of Geosciences. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
